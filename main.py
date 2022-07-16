@@ -44,7 +44,7 @@ def main():
         run_ml_app()
     else:
         st.subheader("About")
-        image = Image.open('pbout.png')
+        image = Image.open('pbout.PNG')
         # image= r'C:\Users\Lenovo\Desktop\Telco_Churn_ DSS\photos\about.png'
         st.image(image, use_column_width=True)
 
