@@ -17,4 +17,4 @@ plotly
 graphviz
 keras
 tensorflow
-streamlit-drawable-canvas
+streamlit==1.9.2
